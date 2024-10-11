@@ -6,6 +6,7 @@
 - 😄 Pronouns: gowine...
 - ⚡ Fun fact: ...
 
+Now this github includes many scraping and chatbot projects.
 <!---
 gowine423/gowine423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
